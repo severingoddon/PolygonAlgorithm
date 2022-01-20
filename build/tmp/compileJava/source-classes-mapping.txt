@@ -1,0 +1,6 @@
+Point.java
+ Point
+Gerade.java
+ Gerade
+PolygonAlgo.java
+ PolygonAlgo
